@@ -1,0 +1,113 @@
+body {
+    font-size: 15pt;
+    font-family:serif;
+}
+*{
+  padding:0;
+  margin:0;
+}
+.container{
+  width:1170;
+  padding-left:0 15px;
+  margin:0 auto;
+}
+.top-wrapper{
+  padding-top:180px 0;
+  padding-bottom:100px 0;
+  background-image:url("/progateone.img/banner.png");
+  color:white;
+  background-size:cover;
+  text-align:center;
+}
+.top-wrapper h1{
+  opacity:0.7;
+  font-size:45px;
+  letter-spacing:5px;
+}
+.top-wrapper p{
+  margin:10px 0;
+}
+.btn{
+  padding:3px 8px;
+  color:white;
+  opacity:0.8;
+  border-radius:20px;
+}
+.signup{
+  background-color:green;
+}
+.facebook{
+  background-color:blue;
+}
+.twitter{
+  background-color:deepskyblue;
+}
+.btn-wrapper{
+  margin:200px 0;
+}
+.btn-wrapper p{
+  margin:10px 0;
+}
+header{
+  background-color:darkblue;
+  height:50px;
+  width:100%;
+  background:rgba(0,0,95,0.9);
+}
+.header-left{
+  float:left;
+  line-height:50px;
+  font-size:26px;
+}
+.header-right a{
+  float:right;
+  line-height:50px;
+  padding:0 25px;
+  color:white;
+  display:block;
+  font-size:26px;
+}
+.lesson-wrapper{
+  padding-bottom:80px;
+  text-align:center;
+  }
+.lesson wrapper heading{
+  padding-top:60px;
+  padding-bottom:30px;
+  color:dimgray;
+}
+.heading h2{
+  font-weight:normal;
+}
+.text-context{
+  width:80%;
+  display:inline-block;
+  margin-top:10px;
+  margin-bottom:20px;
+  font-size:17px;
+}
+.message{
+  background-color:green;
+  box-shadow:7px greenyellow;
+}
+.heading h3{
+  font-weight:normal;
+}
+.message-wrapper{
+  border-top:2px solid #eee;
+  border-bottom:2px solid #eee;
+  padding-bottom:80px;
+  text-align:center;
+}
+footer{
+  padding-top:10px;
+  background-color:rgba(0,0,95,0.9);
+}
+footer p{
+  font-size:26px;
+  text-align:center;
+}
+.copyright{
+  font-size:20px;
+}
+
