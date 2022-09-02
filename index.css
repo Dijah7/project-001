@@ -14,7 +14,7 @@ body {
 .top-wrapper{
   padding-top:180px 0;
   padding-bottom:100px 0;
-  background-image:url("/progateone.img/banner.png");
+  background-image:url("banner.png");
   color:white;
   background-size:cover;
   text-align:center;
